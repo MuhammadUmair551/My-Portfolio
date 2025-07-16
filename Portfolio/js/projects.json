@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "E-commerce Website",
+        "category": "web",
+        "image": "images/E-comm.png",
+        "description": "A fully responsive e-commerce platform with fetch API and payment gateway integration.",
+        "tags": ["HTML", "CSS", "JavaScript", "Bootstrap","GSAP"],
+        "link": "https://shop-easy-e-comm.netlify.app/"
+    },
+    {
+        "id": 2,
+        "title": "Food Panda Replica",
+        "category": "mobile",
+        "image": "images/Food-panda.png",
+        "description": "Built a simple yet functional Foodpanda replica, focused on Local storage.",
+        "tags": ["HTML", "CSS", "JavaScript","Bootstrap"],
+        "link": "https://foodpanda-replica-ee3e42.netlify.app/"
+    },
+    {
+        "id": 3,
+        "title": "Rock Paper Scissor Game",
+        "category": "web",
+        "image": "images/game.png",
+        "description": "A fun yet powerful project to sharpen JavaScript logic, event handling, and DOM manipulation.",
+        "tags": ["HTML","CSS","JavaScript"],
+        "link": "https://rock-paper-scissor-game-4a346f.netlify.app/"
+    },
+    {
+        "id": 4,
+        "title": "Quiz Application(API)",
+        "category": "mobile",
+        "image": "images/Quiz-api.png",
+        "description": "Quiz Application that tests users in real-time while sharpening my API concept",
+        "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "link": "https://quiz-app-api-123.netlify.app/"
+    },
+    {
+        "id": 5,
+        "title": "Construction Web",
+        "category": "web",
+        "image": "images/construction-UI.png",
+        "description": "Just a Construction Website using to practice Frontend",
+        "tags": ["HTML", "CSS", "Bootstrap"],
+        "link": "https://construction-site-b4500e.netlify.app/"
+    },
+    {
+        "id": 6,
+        "title": "Stop Watch",
+        "category": "mobile",
+        "image": "images/stopwatch.png",
+        "description": "The stopwatch includes start, pause, and reset functionality with smooth and precise time tracking.",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "link": "https://stop-watch-0dac8c.netlify.app/"
+    },
+    {
+        "id": 7,
+        "title": "Expense Management System",
+        "category": "mobile",
+        "image": "images/expense.png",
+        "description": "Expense Management System that helps users efficiently track their income and spending.",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "link": "https://expense-management-cb4853.netlify.app/"
+    },
+    {
+        "id": 8,
+        "title": "To-do-List",
+        "category": "mobile",
+        "image": "images/todo.png",
+        "description": "This project focuses on real-world, to create a smooth task management experience.",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "link": "https://todo-list-874ad1.netlify.app/"
+    },
+    {
+        "id": 9,
+        "title": "Simple Calculator",
+        "category": "mobile",
+        "image": "images/calculator.png",
+        "description": "This project helped me improve my JavaScript logic, DOM manipulation, and UI design skills.",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "link": "https://simple-calculator-67fa65.netlify.app/"
+    }
+]
