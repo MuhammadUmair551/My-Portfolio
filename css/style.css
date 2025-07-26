@@ -117,11 +117,9 @@ body {
     /* Optional white border */
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     /* Optional subtle shadow */
-    animation: float 3s ease-in-out infinite;
-    /* Keeps your float animation */    
 }
 
-@keyframes float {
+/* @keyframes float {
 
     0%,
     100% {
@@ -131,7 +129,7 @@ body {
     50% {
         transform: translateY(-20px);
     }
-}
+} */
 
 /* Projects Section */
 .projects {
@@ -355,6 +353,7 @@ footer {
     .hero-image img {
         width: 200px;
         height: 200px;
+        margin-top: 30px;
     }
 }
 @media (max-width: 437px){
