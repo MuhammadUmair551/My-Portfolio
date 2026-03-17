@@ -6,7 +6,7 @@
         "image": "images/E-comm.png",
         "description": "A fully responsive e-commerce platform with fetch API and payment gateway integration.",
         "tags": ["HTML", "CSS", "JavaScript", "Bootstrap","GSAP"],
-        "link": "https://shop-easy-e-comm.netlify.app/"
+        "link": "https://shopeasy-se-10e07.netlify.app/"
     },
     {
         "id": 2,
