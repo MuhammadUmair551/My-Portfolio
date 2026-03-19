@@ -3,7 +3,7 @@
         "id": 1,
         "title": "E-commerce Website",
         "category": "web",
-        "image": "images/E-comm.png",
+        "image": "images/e.png",
         "description": "A fully responsive e-commerce platform with fetch API and payment gateway integration.",
         "tags": ["HTML", "CSS", "JavaScript", "Bootstrap","GSAP"],
         "link": "https://shopeasy-se-10e07.netlify.app/"
@@ -12,10 +12,10 @@
         "id": 2,
         "title": "Food Panda Replica",
         "category": "mobile",
-        "image": "images/Food-panda.png",
+        "image": "images/image.png",
         "description": "Built a simple yet functional Foodpanda replica, focused on Local storage.",
         "tags": ["HTML", "CSS", "JavaScript","Bootstrap"],
-        "link": "https://foodpanda-replica-ee3e42.netlify.app/"
+        "link": "https://foodpandaa-replica-8feb2b.netlify.app/"
     },
     {
         "id": 3,
